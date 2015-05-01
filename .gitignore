@@ -1,0 +1,14 @@
+# Intellij files
+*.iml
+.idea
+
+# Maven builds
+target
+
+# Python compiled files
+*.pyc
+
+# OS X filesystem metadata
+.DS_Store
+
+
